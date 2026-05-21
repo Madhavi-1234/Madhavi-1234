@@ -10,7 +10,12 @@ I love building mini AI projects, experimenting with models, and learning by doi
 ### 🔭 What I’m Working On
 - AI-powered **Review Analyzer** (LangChain + Google Gemini AI + Streamlit)  
 - Mini Generative AI projects: text, summaries, and structured outputs  
-- Learning and experimenting with **Pydantic, JSON structured outputs, and AI prompts**  
+- Learning and experimenting with **Pydantic, JSON structured outputs, and AI prompts**
+- Built an AI-powered Resume Screening System that analyzes resumes and matches them with job descriptions using NLP and Machine Learning.
+  Focused on smart candidate filtering and improving recruitment efficiency.
+- Currently building a YouTube RAG Chatbot using Whisper, FAISS, and Gemini AI.
+   Transforming YouTube videos into interactive AI-powered knowledge assistants with real-time question answering.
+
 
 -------------------------------------------------------------------------------------------------------------------------------
 
