@@ -17,12 +17,13 @@ I love building mini AI projects, experimenting with models, and learning by doi
 
 
 -------------------------------------------------------------------------------------------------------------------------------
-
 ### 🛠 Tools & Technologies I Use
+
 - **Languages:** Python  
-- **AI / ML / Gen AI:** LangChain,FatAPI, Google Gemini AI, OpenAI API, HuggingFace  
-- **Data & Analysis:** Pandas, NumPy, Matplotlib, Altair  
-- **Others:** Git/GitHub, VSCode, Jupyter Notebooks  , Google Colab
+- **Machine Learning / Deep Learning:** PyTorch, scikit-learn  
+- **Generative AI:** LangChain, FastAPI, Google Gemini AI, OpenAI API, Hugging Face  
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Altair  
+- **Tools & Platforms:** Git/GitHub, VS Code, Jupyter Notebook, Google Colab  
 
 ------------------------------------------------------------------------------------------------------------------------------
 
