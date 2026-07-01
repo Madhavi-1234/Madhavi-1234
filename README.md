@@ -8,13 +8,12 @@ I love building mini AI projects, experimenting with models, and learning by doi
 -------------------------------------------------------------------------------------------------------------------------------
 
 ### 🔭 What I’m Working On
-- AI-powered **Review Analyzer** (LangChain + Google Gemini AI + Streamlit)  
-- Mini Generative AI projects: text, summaries, and structured outputs  
-- Learning and experimenting with **Pydantic, JSON structured outputs, and AI prompts**
-- Built an AI-powered Resume Screening System that analyzes resumes and matches them with job descriptions using NLP and Machine Learning.
-  Focused on smart candidate filtering and improving recruitment efficiency.
-- Currently building a YouTube RAG Chatbot using Whisper, FAISS, and Gemini AI.
-   Transforming YouTube videos into interactive AI-powered knowledge assistants with real-time question answering.
+
+- Building an AI-powered **Fashion Style Classification** system using **CLIP**, **PyTorch**, and custom style mapping.
+- Exploring **Machine Learning** and **Deep Learning** through hands-on implementations, model training, and experimentation.
+- Developing **Generative AI** applications using **LangChain**, **Google Gemini AI**, **FAISS**, and **Streamlit**.
+- Learning and implementing **LLMs**, **RAG**, **structured outputs**, **Pydantic**, and **AI prompt engineering**.
+- Building practical AI projects while continuously improving the fundamentals through real-world development.
 
 
 -------------------------------------------------------------------------------------------------------------------------------
@@ -23,7 +22,7 @@ I love building mini AI projects, experimenting with models, and learning by doi
 - **Languages:** Python  
 - **AI / ML / Gen AI:** LangChain,FatAPI, Google Gemini AI, OpenAI API, HuggingFace  
 - **Data & Analysis:** Pandas, NumPy, Matplotlib, Altair  
-- **Others:** Git/GitHub, VSCode, Jupyter Notebooks  
+- **Others:** Git/GitHub, VSCode, Jupyter Notebooks  , Google Colab
 
 ------------------------------------------------------------------------------------------------------------------------------
 
