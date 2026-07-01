@@ -1,10 +1,9 @@
-## Hi there 👋 , I’m Madhavi Dixit
-
+## Hi there 👋 I'm Madhavi Dixit
 
 ### About Me
-I’m an AI enthusiast exploring **Generative AI**, **Machine Learning**, and **Data Science**.  
-I love building mini AI projects, experimenting with models, and learning by doing — it’s my fun way to understand AI deeply! 🚀  
+I’m an AI/ML enthusiast focused on building and learning through hands-on projects in **Machine Learning**, **Deep Learning**, and **Generative AI**.
 
+I enjoy working on end-to-end projects — from data exploration and model building to experimenting with modern AI tools like LLMs and RAG systems. 🚀
 -------------------------------------------------------------------------------------------------------------------------------
 
 ### 🔭 What I’m Working On
