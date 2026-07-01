@@ -34,6 +34,7 @@ I enjoy working on end-to-end projects — from data exploration and model build
 ---
 
 ### ⚡ Fun Fact
-I enjoy **building AI projects from scratch**, exploring new AI models, and sharing my learning journey.  
+I enjoy building AI projects from scratch and experimenting with new models while learning how they actually work in practice.
+
 For me, **learning AI by doing cool projects** is the most fun way to grow! 💡
 -->
